@@ -1,4 +1,4 @@
-# Created by HP at 03-Sep-22
+@all
 Feature: this is second test
   # Enter feature description here
 
