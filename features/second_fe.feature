@@ -1,6 +1,7 @@
 # Created by HP at 03-Sep-22
-Feature: # Enter feature name here
+Feature: this is second test
   # Enter feature description here
 
-  Scenario: # Enter scenario name here
-    # Enter steps here
+  @three
+  Scenario: hello world
+    Given you are on the new page
